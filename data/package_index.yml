@@ -1631,6 +1631,6 @@
   gitlab: flame-code/FLAME
   description: FLAME: a library for atomistic modeling environments.
   categories: atomistic simulation
-  tags: Machine learning interatomic potential, Crystal structure prediction
+  tags: machine-learning interatomic-potential crystal-structure-prediction
   license: GPL-2.0
   version: none
